@@ -7,3 +7,9 @@ border-collapse: collapse;}
 table{width: 750px;}
 th,td{padding: 10px;
 text-align: justify;}
+
+.titulo-h1{color: red;}
+.lorem-azul{color: blue;}
+.Título-h2{color: green;}
+#h2-con-ID{color: yellow;}
+[atributo="si"]{color: purple;}
